@@ -5,6 +5,16 @@ margin: 0px;
     
 }
 header{
-    border-bottom: solid 2px black;
+    border-bottom: solid 2px rgb(238, 10, 10);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(0, 0, 0)
+}
 
+section{
+    background: green;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
