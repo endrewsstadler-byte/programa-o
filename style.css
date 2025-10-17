@@ -1,12 +1,12 @@
 body{
-    color: rgb(19,21,19);
-background: rgb(200,200,214);
+    color: #000000;
+background: rgb(255, 0, 0);
 margin:0px;
 font-family:"Playwrite USA Modern",sans-serif;
     
 }
 header{
-    border-bottom: solid 2px rgb(238, 10, 10);
+    border-bottom: solid 2px rgb(255, 255, 255);
     padding: 20px;
     font-size: 32px;
     color:rgb(0, 0, 0)
@@ -18,4 +18,7 @@ section{
     padding-top: 80px;
     display: flex;
     justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
 }
