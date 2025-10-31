@@ -1,15 +1,15 @@
 body{
     color: #ff0000;
-background: rgb(143, 17, 17);
+background: rgb(255, 255, 255);
 margin:0px;
 font-family:"Playwrite USA Modern",sans-serif;
     
 }
 header{
-    border-bottom: solid 2px rgb(255, 255, 255);
+    border-bottom: solid 2px rgb(255, 0, 0);
     padding: 20px;
     font-size: 32px;
-    color:rgb(0, 0, 0)
+    color:rgb(245, 245, 245)
 }
 
 section{
