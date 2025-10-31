@@ -1,33 +1,38 @@
-body{
+body {
     color: #d11111;
-background: rgb(255, 255, 255);
-margin:0px;
-font-family:"Playwrite USA Modern",sans-serif;
-    
+    background: rgb(255, 255, 255);
+    margin: 0px;
+    font-family: "Playwrite USA Modern", sans-serif;
+
 }
-header{
+
+header {
     border-bottom: solid 2px rgb(255, 255, 255);
     padding: 20px;
     font-size: 32px;
-    color:rgb(245, 245, 245)
+    color: rgb(245, 245, 245);
 }
 
-section{
+section {
     background: rgb(0, 184, 0);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
-.chamada-texto{
+
+.chamada-texto {
     margin-right: 5%;
 }
-h1{
-    fomt-size: 40px;
+
+h1 {
+    font-size: 40px;
 }
-p{
-    font-size:20px;
+
+p {
+    font-size: 20px;
 }
-img{
-   haight: 200px;
+
+img {
+    height: 200px;
 }
