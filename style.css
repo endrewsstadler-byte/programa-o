@@ -23,5 +23,11 @@ section{
     margin-right: 5%;
 }
 h1{
-    
+    fomt-size: 40px;
+}
+p{
+    font-size:20 px;
+}
+img{
+   haight: 200px;
 }
