@@ -1,20 +1,20 @@
 body {
-    color: #d11111;
-    background: rgb(255, 255, 255);
+    color: #000000;
+    background: rgb(255, 0, 0);
     margin: 0px;
     font-family: "Playwrite USA Modern", sans-serif;
 
 }
 
 header {
-    border-bottom: solid 2px rgb(255, 255, 255);
+    border-bottom: solid 2px rgb(250, 250, 250);
     padding: 20px;
     font-size: 32px;
-    color: rgb(245, 245, 245);
+    color: rgb(0, 0, 0);
 }
 
 section {
-    background: rgb(0, 184, 0);
+    background: rgb(0, 255, 0);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
