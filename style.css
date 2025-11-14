@@ -1,6 +1,6 @@
 body {
     color: #000000;
-    background: rgb(195, 0, 255);
+    background: rgb(212, 0, 255);
     margin: 0px;
     font-family: "Playwrite USA Modern", sans-serif;
     margin-bottom: 100px;
@@ -15,7 +15,7 @@ header {
 }
 
 .chamada {
-    background: rgb(39, 37, 153);
+    background: rgb(4, 0, 255);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
