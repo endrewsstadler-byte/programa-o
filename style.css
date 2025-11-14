@@ -1,6 +1,6 @@
 body {
-    color: #ff0000;
-    background: rgb(128, 255, 0);
+    color: #000000;
+    background: rgb(195, 0, 255);
     margin: 0px;
     font-family: "Playwrite USA Modern", sans-serif;
     margin-bottom: 100px;
@@ -15,7 +15,7 @@ header {
 }
 
 .chamada {
-    background: rgb(0, 230, 255);
+    background: rgb(39, 37, 153);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -57,9 +57,9 @@ img {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 1px solid red;
+    border: 1px solid rgb(114, 12, 182);
 }
 
 .categoria h2 {
-    color: rgb(0, 187, 255);
+    color: rgb(0, 38, 255);
 }
