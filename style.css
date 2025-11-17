@@ -1,6 +1,6 @@
 body {
     color: #000000;
-    background: rgb(70, 33, 130);
+    background: rgb(27, 1, 68);
     margin: 0px;
     font-family: "Playwrite USA Modern", sans-serif;
     margin-bottom: 100px;
@@ -57,9 +57,9 @@ img {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 1px solid rgb(114, 12, 182);
+    border: 1px solid rgb(27, 1, 68);
 }
 
 .categoria h2 {
-    color: rgb(78, 0, 233);
+    color: rgb(1, 18, 126);
 }
