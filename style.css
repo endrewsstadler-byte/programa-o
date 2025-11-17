@@ -1,5 +1,5 @@
 body {
-    color: #000000;
+    color: #ffffff;
     background: rgb(27, 1, 68);
     margin: 0px;
     font-family: "Playwrite USA Modern", sans-serif;
@@ -61,5 +61,5 @@ img {
 }
 
 .categoria h2 {
-    color: rgb(1, 18, 126);
+    color: rgb(255, 255, 255);
 }
