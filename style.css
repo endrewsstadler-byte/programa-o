@@ -15,7 +15,7 @@ header {
 }
 
 .chamada {
-    background: rgb(4, 0, 255);
+    background: rgb(34, 1, 118);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -61,5 +61,5 @@ img {
 }
 
 .categoria h2 {
-    color: rgb(107, 51, 220);
+    color: rgb(78, 0, 233);
 }
